@@ -1,0 +1,7 @@
+print("hitung luas ruangan")
+p =float(input("masukan panjang ruangan:"))
+l =float(input("masukan lebar ruangan: "))
+s =input("masukan satuan (meter/inci):  ")
+luas = p*l
+
+print ("luas ruangan dengan panjang ",p,"dan lebar",1,"adalah",luas,s)
